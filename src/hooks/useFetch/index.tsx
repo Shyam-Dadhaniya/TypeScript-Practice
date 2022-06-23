@@ -1,4 +1,3 @@
-import React from 'react'
 import { Game } from '../../types'
 import { Filter } from '../../components/GameList/types';
 import axios from 'axios'
